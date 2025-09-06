@@ -6,5 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes: []
   m_configObjects:
+    Unity.XR.PICO.LivePreview.Settings: {fileID: 11400000, guid: eb25363f525f4f84fb24863f7d7c5651, type: 2}
     Unity.XR.PXR.Settings: {fileID: 11400000, guid: 53ef2e330c35ca341b1a466562bbc35a, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: cba3c9997b5c73847bc209acf008d3ca, type: 2}
