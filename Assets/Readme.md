@@ -12,7 +12,7 @@ Unity XR develop project settings.
 
 ## Device
 
-## Step
+## Settings
 
 ### Install XR Plugin Management
 
@@ -26,6 +26,8 @@ Unity XR develop project settings.
 ### Setting XR Plugin Management
 
 - Edit --> Project Settings --> XR Plug-in Management.
+
+## Samples
 
 ---
 
