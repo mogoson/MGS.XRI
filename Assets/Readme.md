@@ -37,12 +37,13 @@ Unity XR develop project settings.
 
 ## Samples
 
-- Window --> Package Manager -->
+- [Pico-Developer](https://github.com/Pico-Developer)
 
 ## Ref Document
 
 - [开发资源 | PICO 开发者平台](https://developer-cn.picoxr.com/resources/)
 - [实时预览应用场景 | PICO 开发者平台](https://developer-cn.picoxr.com/document/unity/preview-app-scenes/)
+- [PICO 开发者中心概览 | PICO 开发者平台](https://developer-cn.picoxr.com/document/unity/pdc-basic-info/)
 
 ---
 
