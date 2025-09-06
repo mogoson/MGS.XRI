@@ -14,7 +14,7 @@ Unity XR develop project settings.
 
 HTC VIVE
 
-## Step
+## Settings
 
 ### Install XR Plugin Management
 
@@ -35,6 +35,10 @@ HTC VIVE
   - Add HTC Vive Controller Profile.
 - OpenXR Feature Groups.
   - Toggle "Hand Interaction Poses" is on.
+
+## Samples
+
+- Window --> Package Manager --> XR Interaction Toolkit --> Samples.
 
 ---
 
