@@ -10,6 +10,8 @@ Unity XR develop project settings.
 
 ## Device
 
+PICO
+
 ---
 
 Copyright © 2025 Mogoson.	mogoson@outlook.com

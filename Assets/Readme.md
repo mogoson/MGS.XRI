@@ -27,7 +27,22 @@ Unity XR develop project settings.
 
 - Edit --> Project Settings --> XR Plug-in Management.
 
+### PICO Unity Integration SDK
+
+- [PICO Unity Integration SDK | PICO 开发者平台](https://developer-cn.picoxr.com/document/unity/)
+
+### PICO Unity Live Preview Plugin
+
+- [实时预览应用场景 | PICO 开发者平台](https://developer-cn.picoxr.com/document/unity/preview-app-scenes/)
+
 ## Samples
+
+- Window --> Package Manager -->
+
+## Ref Document
+
+- [开发资源 | PICO 开发者平台](https://developer-cn.picoxr.com/resources/)
+- [实时预览应用场景 | PICO 开发者平台](https://developer-cn.picoxr.com/document/unity/preview-app-scenes/)
 
 ---
 
