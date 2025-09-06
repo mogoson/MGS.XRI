@@ -10,6 +10,8 @@ Unity XR develop project settings.
 
 ## Device
 
+Rokid AR Studio
+
 ---
 
 Copyright © 2025 Mogoson.	mogoson@outlook.com
