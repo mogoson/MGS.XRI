@@ -10,6 +10,11 @@ Unity XR develop project settings.
 
 ## Device
 
+## Step
+
+- Edit --> Project Settings --> XR Plug-in Management --> Install XR Plugin Management.
+- XR Plug-in Management / Project Validation / Validation Rules / Fix All.
+
 ---
 
 Copyright © 2025 Mogoson.	mogoson@outlook.com
